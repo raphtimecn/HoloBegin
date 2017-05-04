@@ -1,6 +1,6 @@
 # HoloBegin
 
-#Beginners to Advanced on HoloLens and Windows Mixed Reality
+# Beginners to Advanced on HoloLens and Windows Mixed Reality
 
 Start date 28th April 2017. Update date 28th April 
 The purpose of this documentation and examples is to allow new and updated information to be displayed
